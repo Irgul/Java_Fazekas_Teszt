@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
 
-        
+
         public static  boolean majdnemprim (int n) {
             int osztok=0;
             for(int i=2; osztok<2 && i*i<=n;i++){
